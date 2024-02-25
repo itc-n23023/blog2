@@ -1,0 +1,40 @@
+0 verbose cli /home/vagrant/.volta/tools/image/node/20.10.0/bin/node /home/vagrant/.volta/tools/image/npm/10.2.4/bin/npm-cli.js
+1 info using npm@10.2.4
+2 info using node@v20.10.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 0ms
+5 timing config:load:file:/home/vagrant/.volta/tools/image/npm/10.2.4/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 12ms
+10 timing config:load:file:/home/vagrant/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/home/vagrant/.volta/tools/image/node/20.10.0/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:setEnvs Completed in 0ms
+15 timing config:load Completed in 15ms
+16 timing npm:load:configload Completed in 15ms
+17 timing config:load:flatten Completed in 1ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm exec create-next-app blog
+21 verbose argv "exec" "--" "create-next-app" "blog"
+22 timing npm:load:setTitle Completed in 0ms
+23 timing npm:load:display Completed in 1ms
+24 verbose logfile logs-max:10 dir:/home/vagrant/.npm/_logs/2023-12-12T07_16_25_721Z-
+25 verbose logfile /home/vagrant/.npm/_logs/2023-12-12T07_16_25_721Z-debug-0.log
+26 timing npm:load:logFile Completed in 4ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 44ms
+30 silly logfile done cleaning log files
+31 timing arborist:ctor Completed in 0ms
+32 http fetch GET 200 https://registry.npmjs.org/create-next-app 1381ms (cache revalidated)
+33 timing arborist:ctor Completed in 0ms
+34 timing arborist:ctor Completed in 0ms
+35 timing arborist:ctor Completed in 0ms
+36 timing command:exec Completed in 382834ms
+37 verbose exit 0
+38 timing npm Completed in 382965ms
+39 info ok

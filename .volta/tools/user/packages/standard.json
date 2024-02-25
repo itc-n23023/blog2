@@ -1,0 +1,14 @@
+{
+  "name": "standard",
+  "version": "17.1.0",
+  "platform": {
+    "node": "20.10.0",
+    "npm": "10.2.4",
+    "pnpm": null,
+    "yarn": null
+  },
+  "bins": [
+    "standard"
+  ],
+  "manager": "Npm"
+}

@@ -1,0 +1,11 @@
+[user]
+email = n23023@std.it-collge.ac.jp
+name = itc-n23023
+[core]
+editor = nvim
+[ul]
+color = auto
+[init]
+defaultBranch = main
+[github]
+user = omas-public

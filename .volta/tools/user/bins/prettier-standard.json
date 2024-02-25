@@ -1,0 +1,12 @@
+{
+  "name": "prettier-standard",
+  "package": "prettier-standard",
+  "version": "16.4.1",
+  "platform": {
+    "node": "20.10.0",
+    "npm": "10.2.4",
+    "pnpm": null,
+    "yarn": null
+  },
+  "manager": "Npm"
+}

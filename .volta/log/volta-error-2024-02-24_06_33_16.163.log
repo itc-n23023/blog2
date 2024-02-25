@@ -1,0 +1,9 @@
+"npm" "run" "dev"
+Volta v1.1.1
+
+Could not parse project manifest
+at /home/vagrant/Application/ptcg-shop/package.json
+
+Please ensure that the file is correctly formatted.
+
+Error cause: trailing characters at line 27 column 1
